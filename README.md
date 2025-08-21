@@ -3,6 +3,11 @@
 [![Build Status](https://travis-ci.org/thiagoralves/OpenPLC_v3.svg?branch=master)](https://travis-ci.org/thiagoralves/OpenPLC_v3)
 [![Build status](https://ci.appveyor.com/api/projects/status/ut3466ixwtyf68qg?svg=true)](https://ci.appveyor.com/project/shrmrf/openplc-v3)
 
+This is a non maintained branch of OpenPLC from https://github.com/thiagoralves/OpenPLC_v3
+The Only reason for this branch, is for me to see if its possible for me to add openwrt as a build target
+aannd perhaps later to add https://github.com/nimbuscontrols/EIPScanner to the mix
+
+
 OpenPLC is an open-source [Programmable Logic Controller](https://en.wikipedia.org/wiki/Programmable_logic_controller) that is based on easy to use software. Our focus is to provide a low cost industrial solution for automation and research. OpenPLC has been used in [many research papers](https://scholar.google.com/scholar?as_ylo=2014&q=openplc&hl=en&as_sdt=0,1) as a framework for industrial cyber security research, given that it is the only controller to provide the entire source code.
 The OpenPLC Project consists of two sub-projects:
 1. [Runtime](https://github.com/thiagoralves/OpenPLC_v3)
