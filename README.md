@@ -3,6 +3,11 @@
 [![Build Status](https://travis-ci.org/thiagoralves/OpenPLC_v3.svg?branch=master)](https://travis-ci.org/thiagoralves/OpenPLC_v3)
 [![Build status](https://ci.appveyor.com/api/projects/status/ut3466ixwtyf68qg?svg=true)](https://ci.appveyor.com/project/shrmrf/openplc-v3)
 
+So. this software is designed to install from source.
+I will try to package it to create a functioning deb package, then see if if can create an openwrt package from that.
+The first things to do, is to figure out whats needed to compile, and whats needed to run the software.
+
+
 This is a non maintained branch of OpenPLC from https://github.com/thiagoralves/OpenPLC_v3
 The Only reason for this branch, is for me to see if its possible for me to add openwrt as a build target
 aannd perhaps later to add https://github.com/nimbuscontrols/EIPScanner to the mix
